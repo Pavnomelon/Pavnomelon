@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pavnomelon
-- 👀 I’m interested in Videogame
-- 🌱 I’m currently learning how to use Unrealengine by myself
+- 👀 I’m interested in anything
+- 🌱 I’m currently learning how to use Unrealengine by myself and many programming languages
 
 
 <!---
